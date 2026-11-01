@@ -1,0 +1,8 @@
+{
+  // Disable some built-in rules
+  "config": {
+    "MD041": false                   // Allow first line to be an embedded image
+  },
+  // Fix any fixable errors
+  "fix": true
+}
