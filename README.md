@@ -8,7 +8,7 @@
 
 ## Sponsor Exclusive Resources
 
-What you'll find in our [Sponsor Exclusive Resources](https://github.com/TheHomelabFiles/MembersOnly) repository:
+What you'll find in our [Sponsor Exclusive Resources](https://github.com/TheHomelabFilesSponsors/MembersOnly) repository:
 
 Various files, scripts, white papers, and other resources that are available exclusively to The Homelab Files Sponsor Members. These resources align with our [Youtube Channel](https://www.youtube.com/@TheHomelabFiles) content and are designed to help you get the most out of your homelab and self-hosting experience.
 
